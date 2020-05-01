@@ -6,7 +6,7 @@ class Test {
 	}
 
 	public void testMethodTwo(String a, String b) {
-		String x = a + "a";
+		String x = a + "aa";
 		String y = b + "b";
 		System.out.println(x + y);
 	}
